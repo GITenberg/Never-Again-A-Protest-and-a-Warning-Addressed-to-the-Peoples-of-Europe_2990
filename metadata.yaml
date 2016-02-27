@@ -1,0 +1,26 @@
+_repo: Never-Again-A-Protest-and-a-Warning-Addressed-to-the-Peoples-of-Europe_2990
+creator:
+  author:
+    agent_name: Carpenter, Edward
+    birthdate: 1844
+    deathdate: 1929
+    gutenberg_agent_id: '657'
+    url: http://www.gutenberg.org/2009/agents/657
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Carpenter
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2001-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2990'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Peace'
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918'
+- !lcsh 'Pamphlets'
+title: Never Again! A Protest and a Warning Addressed to the Peoples of Europe
+url: http://www.gutenberg.org/ebooks/2990
